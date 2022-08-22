@@ -1,0 +1,4 @@
+name: custom-cubical
+include: .
+depend:
+flags: --cubical --no-import-sorts
